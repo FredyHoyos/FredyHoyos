@@ -35,19 +35,23 @@ Apasionado por la tecnología, con experiencia en desarrollo Full-Stack y automa
 ---
 
 ## 🔝 Proyectos Destacados
-<p>
-  <a href="https://github.com/FredyHoyos/Ranking-Modutex">
-    <img width="400" alt="Ranking-Modutex" src="https://github.com/user-attachments/assets/e7bb0a67-73d8-4b95-acea-c8fc3472136a" />
+
+<p align="center">
+  <a href="https://github.com/FredyHoyos/Ranking-Modutex" target="_blank">
+    <img width="250" alt="Ranking-Modutex" src="https://github.com/user-attachments/assets/e7bb0a67-73d8-4b95-acea-c8fc3472136a" />
   </a>
-  <a href="https://github.com/FredyHoyos/DiagnoSys">
-    <img width="400" alt="DiagnoSys" src="https://github.com/user-attachments/assets/707d1478-2d0e-4e88-b4a7-13c62f91b10a" />
+  <a href="https://github.com/FredyHoyos/DiagnoSys" target="_blank">
+    <img width="250" alt="DiagnoSys" src="https://github.com/user-attachments/assets/707d1478-2d0e-4e88-b4a7-13c62f91b10a" />
+  </a>
+  <a href="https://github.com/FredyHoyos/ProgramacionLineal" target="_blank">
+    <img width="250" alt="ProgramacionLineal" src="https://github.com/user-attachments/assets/14ba1ba3-062e-4e4a-a9b3-111f6c2c3adc" />
   </a>
 </p>
-<p>
-  <a href="https://github.com/FredyHoyos/ProgramacionLineal">
-    <img width="400" alt="ProgramacionLineal" src="https://github.com/user-attachments/assets/14ba1ba3-062e-4e4a-a9b3-111f6c2c3adc" />
-  </a>
+
+<p align="center">
+  <b>Ranking-Modutex</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>DiagnoSys</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>Programación Lineal</b>
 </p>
+
 
 
 ---
