@@ -27,6 +27,14 @@ Apasionado por la tecnología, con experiencia en desarrollo Full-Stack y automa
 
 ---
 
+## 🖥️ Lenguajes más usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredyHoyos&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FredyHoyos&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
