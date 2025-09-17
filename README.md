@@ -36,18 +36,19 @@ Apasionado por la tecnología, con experiencia en desarrollo Full-Stack y automa
 
 ## 🔝 Proyectos Destacados
 <p>
-  <a href="https://github.com/FredyHoyos/FleetGuard360-Front">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FredyHoyos&repo=FleetGuard360-Front&theme=radical" alt="FleetGuard360 Front" />
+  <a href="https://github.com/FredyHoyos/Ranking-Modutex">
+    <img width="400" alt="Ranking-Modutex" src="https://github.com/user-attachments/assets/e7bb0a67-73d8-4b95-acea-c8fc3472136a" />
   </a>
-  <a href="https://github.com/FredyHoyos/FleetGuard360-Back">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FredyHoyos&repo=FleetGuard360-Back&theme=radical" alt="FleetGuard360 Back" />
+  <a href="https://github.com/FredyHoyos/DiagnoSys">
+    <img width="400" alt="DiagnoSys" src="https://github.com/user-attachments/assets/707d1478-2d0e-4e88-b4a7-13c62f91b10a" />
   </a>
 </p>
 <p>
-  <a href="https://github.com/FredyHoyos/Optimizacion-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FredyHoyos&repo=Optimizacion-Python&theme=radical" alt="Optimización Python" />
+  <a href="https://github.com/FredyHoyos/ProgramacionLineal">
+    <img width="400" alt="ProgramacionLineal" src="https://github.com/user-attachments/assets/14ba1ba3-062e-4e4a-a9b3-111f6c2c3adc" />
   </a>
 </p>
+
 
 ---
 
