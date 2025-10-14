@@ -69,11 +69,8 @@ Apasionado por la tecnología, con experiencia en desarrollo Full-Stack y automa
   <a href="mailto:frediicardenas1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/fredy-c´ardenas-a4072731a">
+  <a href="https://www.linkedin.com/in/fredy-cárdenas-a4072731a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/FredyHoyos">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
