@@ -1,7 +1,8 @@
 # 👋 ¡Hola, soy Jhon Fredy Hoyos Cárdenas!  
 
 🎯 **Desarrollador Full-Stack | Estudiante de Ingeniería de Sistemas en la UdeA**  
-Apasionado por la tecnología, con experiencia en desarrollo Full-Stack y automatización de procesos.
+Soy desarrollador junior apasionado por la tecnología, la programación y automatización de procesos.
+Mira mis proyectos! :D
 
 ---
 
