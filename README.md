@@ -19,7 +19,6 @@ Aplicación web para la medición, análisis y automatización de indicadores de
 🔹 Desarrollo Full-Stack  
 
 🌐 Web: https://modutex.app  
-📂 Repositorio: https://github.com/FredyHoyos/Ranking-Modutex  
 
 ---
 
